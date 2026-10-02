@@ -1,9 +1,9 @@
-PWD /home/harshit/Desktop/CS6101/PROJECT/SLIM_presentation_final_package
+PWD /home/harshit/Desktop/CS6101/PROJECT/SLIM-6101/SLIM_presentation_final_package
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/harshit/Desktop/CS6101/PROJECT/SLIM_presentation_final_package/SLIM_presentation_final.tex
+INPUT /home/harshit/Desktop/CS6101/PROJECT/SLIM-6101/SLIM_presentation_final_package/SLIM_presentation_final.tex
 OUTPUT SLIM_presentation_final.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
