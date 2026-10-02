@@ -1,0 +1,8 @@
+# Keep the repository source-only: allow just the presentation source and its required images.
+*
+!.gitignore
+!SLIM_presentation_final_package/
+!SLIM_presentation_final_package/SLIM_presentation_final.tex
+!SLIM_presentation_final_package/slim_fig1.png
+!SLIM_presentation_final_package/slim_fig2.png
+!SLIM_presentation_final_package/slim_table1.png
